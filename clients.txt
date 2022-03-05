@@ -1,0 +1,26 @@
+Brooke Sherman;02;false
+Bobby Pin;17;false
+Beverly Davis;97;false
+Holly Wood;88;true
+LeBron James;86;false
+Sally Bee;39;false
+Betty Bop;4;false
+Babs Bunny;54;false
+Folly George;58;false
+Jerry Rice;86;false
+Tigger Tiger;74;false
+Tina Snow;80;false
+Jerry Rice;86;true
+Donald Duck;62;false
+Jill Scott;84;false
+Q;17;true
+Bobby Seal;85;false
+Bee Arthur;15;false
+Mary Hope;78;false
+Paul Su;94;false
+Tigger Tiger;74;true
+Beverly Davis;97;true
+Sean John;11;false
+Terry;45;false
+Summer Walks;90;false
+Mary;78;true
